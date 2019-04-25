@@ -3,6 +3,6 @@
 
 # paragraph
 ```ruby
-this is first code
+put"this is first code"
 ```
 
