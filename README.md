@@ -3,7 +3,7 @@
 
 # paragraph
 ```ruby
-put"this is first code"
+Put"this is first code"
 ```
 
 ## Image source
