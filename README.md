@@ -9,6 +9,6 @@ No"this is second one"
 
 ## Image source
 
-you can find this image [using this link] ( https://www.google.com/ )
+you can find this image [using this link](https://www.google.com/ )
 
 :heart_eyes:
